@@ -1,0 +1,12 @@
+modules:
+- name: anything
+  site: SHE
+  
+  description: x
+  product: smt
+  url: x
+  ediright: true
+  developers:
+   - ol 
+  patterns: x
+  
